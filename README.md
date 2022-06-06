@@ -1,4 +1,4 @@
-**machine-learning-study** - This repository is for studying _Machine Learning_ course of _Andrew Ng_ from _Stanford University_.
+**machine-learning-study** - This repository is for studying _Andrew Ng_ _Machine Learning_ course from _Stanford University_.
 
 https://www.coursera.org/learn/machine-learning#instructors
 
